@@ -22,3 +22,9 @@ Based on the recommendations from the tuner, a deep learning model is created us
 - Pandas
 - Scikit-learn
 
+## Contributors 
+* Karl Schultz (github.com/karl-schultz)
+* Jamie Kawaguchi (github.com/JamieKawaguchi)
+* Andres Erasto (github.com/AndresE99)
+* Aiden Tariku (github.com/aidentariku)
+* Ali Lakhani (Instructor)
